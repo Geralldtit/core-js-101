@@ -265,7 +265,7 @@ function isString(value) {
  * @return {number}
  *
  * @example
- *   'A♣' => 0
+ *   'A♣' => 0git
  *   '2♣' => 1
  *   '3♣' => 2
  *     ...
